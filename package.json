@@ -1,0 +1,20 @@
+{
+    "author": {
+        "name": "Michael Cadelago",
+        "email": "mikecadelago@gmail.com"
+    },
+    "name": "ucsjs",
+    "description": "UCS Manager Client for Node",
+    "version": "0.0.1",
+    "main": "./client.js",
+    "dependencies": {
+        "xml2js": "~0.4.1",
+        "q": "~1.0.0"
+
+    },
+    "devDependencies": {
+        "mocha": "~1.17.1",
+        "mocha-as-promised": "~2.0.0",
+        "should": "~3.1.3"
+    }
+}
